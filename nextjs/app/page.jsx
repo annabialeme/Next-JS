@@ -7,18 +7,18 @@ export default function Home() {
   <div>
     <Header />
     <main>
-    <h2>Meu primeiro aplicativo </h2>
-
+  
   <aside>
-    <Card title="Maxton hall" content="aqui"/>
-    <Card title="Maxton hall" content="aqui" />
-    <Card title="Maxton hall" content="aqui" />
-      
-  </aside>
+  <Card title="Primeira conversa" content="aqui"/>
+      <Card title="Primeiro encontro" content="aqui" />
+      <Card title="Coisas que me lembram você" content="aqui" />
 
-        <div className="imagem">
-          <img src='/maxton hall2.jpeg'></img>
+      <div className= "imagem">
+        <img src = "/maxton hall2.jpeg"></img>
         </div>
+  </aside>
+      
+      
     </main>
     <Footer />
   </div>
