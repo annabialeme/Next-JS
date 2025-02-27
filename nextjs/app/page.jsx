@@ -11,6 +11,11 @@ export default function Home() {
       <Card />
       <Card />
       <Card />
+      <aside>
+        <div class="imagem">
+          <img src='/maxton hall2.jpeg'></img>
+        </div>
+      </aside>
     </main>
     <Footer />
   </div>
