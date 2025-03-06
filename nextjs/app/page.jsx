@@ -8,17 +8,14 @@ export default function Home() {
     <Header />
     <main>
   
-  <aside>
-  <Card title="Primeira conversa" content="aqui"/>
-      <Card title="Primeiro encontro" content="aqui" />
-      <Card title="Coisas que me lembram você" content="aqui" />
+  <div class = "card">
+  <Card title="Primeira conversa" content="Lembro do primeiro dia que começamos a conversar, foi logo após nos encontramos em uma festa, eu nunca irei me esquecer, pois você mostrou que tinha gostado da minha companhia."/>
 
-      <div className= "imagem">
-        <img src = "/maxton hall2.jpeg"></img>
-        </div>
-  </aside>
-      
-      
+      <Card title="Primeiro encontro" content="Nosso primeiro encontro oficial foi inesquecível, você fez de tudo por mim e me levou até o portão da minha casa, fazendo com que eu me sentisse segura." />
+
+      <Card title="O que eu penso sobre você" content="Toda vez que eu penso em você, eu fico com um sorriso bobo, talvez por estar vivendo com uma pessoa que me trata com carinho e que me faz feliz, pela primeira vez alguém mostra que realmente me quer." />
+  </div>
+    
     </main>
     <Footer />
   </div>
