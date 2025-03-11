@@ -16,6 +16,10 @@ export default function Home() {
       <Card title="O que eu penso sobre você" content="Toda vez que eu penso em você, eu fico com um sorriso bobo, talvez por estar vivendo com uma pessoa que me trata com carinho e que me faz feliz, pela primeira vez alguém mostra que realmente me quer." />
   </div>
     
+    <div class ="imagem">
+      <img src = "/maxton hall2.jpeg"></img>
+      </div>
+
     </main>
     <Footer />
   </div>
